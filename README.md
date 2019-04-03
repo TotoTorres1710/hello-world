@@ -4,4 +4,4 @@ Somo chiques de quinte be informatiquè y està m al pues to me per donas xdddd 
 
 Es muy fácil hacer algunas palabras **negrita** y otras palabras *cursiva* con Markdown. Incluso puede
 
-:!https://octodex.github.com/images/yaktocat.png
+:! (https://octodex.github.com/images/yaktocat.png)
